@@ -702,6 +702,10 @@ textarea::placeholder {
   color: rgba(46, 47, 66, 0.4);
 }
 
+.privacy-field {
+  margin-bottom: 24px;
+}
+
 .modal-check {
 }
 
